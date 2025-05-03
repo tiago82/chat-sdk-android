@@ -87,7 +87,7 @@ ext {
     zxing = "2.0"
 
     // Used by file messages
-    androidNetworkingVersion = "v1.0.2"
+    androidNetworkingVersion = "1.0.4"
     pdfiumVersion = "1.9.0"
 
     smackVersion = "4.4.5"
